@@ -1,0 +1,7 @@
+# Firestore CRUD application
+
+To Run this application all you need to do is do a git clone and npm install to get the files. You will need to setup your own firebase account which can be done on the website. 
+Use 'firebase login' to login into your firebase account.
+
+HTTP requests can be done using POSTMAN or terminal.
+Use firebase deploy to deploy your code.
